@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_arrow_back_24.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_baseline_playlist_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_baseline_shuffle_24.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_favourite_empty.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/ic_next_24.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/previous_icon.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/salash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/slash_screen.xml" value="0.1285" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/layout/activity_favouriteactivity.xml" value="0.264" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/layout/activity_player.xml" value="0.2" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/layout/activity_playlistactivity.xml" value="0.2" />
+        <entry key="..\:/Users/shres/Desktop/app/app/src/main/res/mipmap-anydpi-v26/aura_icon.xml" value="0.138" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
